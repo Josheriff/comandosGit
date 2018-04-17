@@ -31,3 +31,8 @@ git commit -m "MENSAJE QUE DIGA LO QUE HE HECHO"
 ```
 git push
 ```
+
+- Cuando estes perdido usa:
+```
+git status
+``
